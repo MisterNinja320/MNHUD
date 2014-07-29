@@ -204,8 +204,6 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"0 255 255 255"		Linear 0.0 0.2
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"100 255 25 255"			Linear 0.2 0.4
 	Animate HealthBGBuff                       Alpha     "255"       Accel 0.0 0.075
 	Animate HealthBGBuff2                      Alpha     "255"       Accel 0.125 0.075
 	
