@@ -1,5 +1,594 @@
 "Resource/HudLayout.res"
-{
+{   
+    "ScatterGunPelletXHair"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "ScatterGunPelletXHair"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair0"
+        "labelText" "0"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallestCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallestCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair1"
+        "labelText" "1"
+        "textAlignment" "center"
+
+        "fgcolor" "Black"
+    }
+    "SmallCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair2"
+        "labelText" "2"
+        "textAlignment" "center"
+
+        "fgcolor" "Black"
+    }
+   "Dot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "Dot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair3"
+        "labelText" "3"
+        "textAlignment" "center"
+
+        "fgcolor" "Black"
+    }
+    "SmallDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair4"
+        "labelText" "4"
+        "textAlignment" "center"
+
+        "fgcolor" "Black"
+    }
+    "Square"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "Square"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair5"
+        "labelText" "5"
+        "textAlignment" "center"
+
+        "fgcolor" "Black"
+    }
+    "SmallSquare"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallSquare"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair6"
+        "labelText" "6"
+        "textAlignment" "center"
+
+        "fgcolor" "Black"
+    }
+    "SmallHollowCrosswithDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallHollowCrosswithDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair7"
+        "labelText" "7"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "CirclewithDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "CirclewithDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair8"
+        "labelText" "8"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "Circle"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "Circle"
+        "visible" "1"
+        "enabled" "1"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair9"
+        "labelText" "9"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "HollowCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "HollowCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair10"
+        "labelText" ","
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "HollowCrosswithSquare"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "HollowCrosswithSquare"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "Crosshair11"
+        "labelText" "."
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallCrossBold"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairA"
+        "labelText" "a"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "Cross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "Cross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairB"
+        "labelText" "b"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "WingswithSmallCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "WingswithSmallCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairC"
+        "labelText" "c"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "Wings"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "Wings"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairD"
+        "labelText" "d"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallHollowCrosswithSmallesDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallHollowCrosswithSmallesDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairE"
+        "labelText" "e"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallWings"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallWings"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairF"
+        "labelText" "f"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallWingswithDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallWingswithDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairG"
+        "labelText" "g"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "ThinHollowCrosswithDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "ThinHollowCrosswithDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairH"
+        "labelText" "h"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "ThinHollowCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "ThinHollowCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairI"
+        "labelText" "i"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "HollowSquare"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "HollowSquare"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairJ"
+        "labelText" "j"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "HollowSquare2"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "HollowSquare2"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairK"
+        "labelText" "k"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "ThinHollowSmallCrosswithdot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "ThinHollowSmallCrosswithdot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairL"
+        "labelText" "l"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "ThinHollowSmallCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "ThinHollowSmallCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairM"
+        "labelText" "m"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallTF2Logo"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallTF2Logo"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairN"
+        "labelText" "n"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "TF2Logo"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "TF2Logo"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairO"
+        "labelText" "o"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "Horizon"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "Horizon"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairP"
+        "labelText" "p"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "SmallHorizon"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "SmallHorizon"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairQ"
+        "labelText" "q"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "CirclewithCross"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "CirclewithCross"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairR"
+        "labelText" "r"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
+    "CirclewithCrossandDot"
+    {
+        "controlName" "CExLabel"
+        "fieldName" "CirclewithCrossandDot"
+        "visible" "0"
+        "enabled" "0"
+        "zpos" "2"
+
+        "xpos" "c-100"
+        "ypos" "c-95"
+        "wide" "201"
+        "tall" "197"
+
+        "font" "CrosshairS"
+        "labelText" "s"
+        "textAlignment" "center"
+
+        "fgcolor" "White"
+    }
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -17,7 +606,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c-55"	[$WIN32]
-		"ypos"	"c120"	[$WIN32]
+		"ypos"	"c100"	[$WIN32]
 		"wide"	"94"
 		"tall"	"45"
 	}
@@ -55,10 +644,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-90"	[$WIN32]
-		"ypos"			"c52"	[$WIN32]
-		"xpos"			"c-90"	[$X360]
-		"ypos"			"c74"	[$X360]
+		"xpos"			"c0"	[$WIN32]
+		"ypos"			"c0"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -70,13 +657,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-66"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"c120"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
-		"xpos"			"r174"	[$X360]
-		"ypos"			"r90"	[$X360]
-		"wide"			"200"
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"c195"	[$WIN32]
+		"wide"			"f0"
 		"tall"			"100"
 	}
 	
@@ -85,9 +668,8 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-43"	[$WIN32]
-		"xpos_minmode"	"c34"	[$WIN32]
-		"ypos"			"c76"	[$WIN32]
+		"xpos"			"c-36"	[$WIN32]
+		"ypos"			"c137"	[$WIN32]
 		"ypos_minmode"	"r40"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
@@ -193,7 +775,7 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-46"	[$WIN32]
+		"xpos"					"c-53"	[$WIN32]
 		"ypos"					"c53"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
@@ -286,7 +868,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"300"
+		"ypos"		"280"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -476,7 +1058,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "350"	[$WIN32]
-		"ypos"	 "55"	[$WIN32]
+		"ypos"	 "60"	[$WIN32]
 		"wide"	 "628"
 		"tall"	 "468"
 
@@ -487,7 +1069,7 @@
 		"CornerRadius"	  "1.5"
 		"RightJustify"	  "0"	// If 1, draw notices from the right
 		
-		"TextFont"		"Kravitzbold12"
+		"TextFont"		"Bebasneue12"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
@@ -589,10 +1171,10 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-250"
-		"ypos"		"276"	[$WIN32]
+		"xpos"		"c35"
+		"ypos"		"266"	[$WIN32]
 		"ypos"		"236"	[$X360]
-		"wide"		"500"
+		"wide"		"75"
 		"tall"		"136"	[$WIN32]
 		"tall"		"176"	[$X360]
 
@@ -812,14 +1394,14 @@
 	{
 		"fieldName"				"HudControlPointIcons"
 		"xpos"					"0"
-		"ypos"					"410"
+		"ypos"					"420"
 		"wide"					"f0"
 		"tall"					"200"
 		"visible"				"1"
 		"enabled"				"1"
 		"separator_width"		"9"	// distance between the icons (including their backgrounds)
 		"separator_height"		"7"
-		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
+		"height_offset"			"10"	[$WIN32] // distance from the bottom of the panel
 		"height_offset"			"26"	[$X360]
 	}
 
@@ -1023,9 +1605,9 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-48"	[$WIN32]
+		"xpos"			"c-43"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"c150"	[$WIN32]
+		"ypos"			"c132"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]

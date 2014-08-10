@@ -2534,6 +2534,578 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		Capitaldarenitalic12
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic16
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic18
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic24
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic32
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic36
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic42
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic48
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		Capitaldarenitalic56
+		{
+			"1"
+			{
+				"name"		"Capital Daren Italic"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		Engplot12
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		Engplot16
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		Engplot18
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		Engplot24
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		Engplot32
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		Engplot36
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		Engplot42
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		Engplot48
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		Engplot56
+		{
+			"1"
+			{
+				"name"		"Engineering Plot"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair0
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair1
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair2
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair3
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair4
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair5
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}	 
+		Crosshair6
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}	
+		Crosshair7
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair8
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair9
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair10
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Crosshair11
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairA
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairB
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairC
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairD
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairE
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairF
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairG
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairH
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairI
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairJ
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairK
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairL
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairM
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairN
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairO
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairP
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairQ
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairR
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	CrosshairS
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue8
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"8"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue12
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"12"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue16
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"16"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue18
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"18"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue24
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"24"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue32
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue36
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"36"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue42
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"42"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue48
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"48"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue56
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"56"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
 
 
 	}
@@ -4458,6 +5030,31 @@ Scheme
 		{
 		    "font" "resource/fonts/KRAVT___.ttf"
 			"name" "Kravitz Thermal"
+		}
+		"10"
+		{
+		    "font" "resource/fonts/Capital Daren Regular.ttf"
+			"name" "Capital Daren Regular"
+		{
+		"11"
+		}
+		"font" "resource/fonts/Capital Daren Italic.ttf"
+		"name" "Capital Daren Italic"
+		{
+		"12"
+		}
+		"font" "resource/fonts/Engplot.ttf"
+		"name" "Engineering Plot"
+		{
+		"13"
+		}
+		"font" "resource/fonts/crosshairs.ttf"
+		"name" "Crosshairs Regular"
+        {
+        "14"
+        }
+        "font" "resource/fonts/BebasNeue.otf"
+		"name" "BebasNeue"
 	    }
 	}
 }
