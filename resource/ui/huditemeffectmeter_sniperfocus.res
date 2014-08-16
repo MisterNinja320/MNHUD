@@ -6,7 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-63"	[$WIN32]
+		"xpos_minmode"  "400"
 		"ypos"			"c117"	[$WIN32]
+		"ypos_minmode"  "380"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -46,8 +48,8 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"1"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
+		"ypos_minmode"			"2"
+		"xpos_minmode"			"12"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"

@@ -76,8 +76,8 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"HudFontMediumSmallSecondary"
-		"font_minmode"	"TFFontLarge"
+		"font"			"Bebasneue12"
+		"font_minmode"	"Bebasneue12"
 		"xpos"			"34"
 		"xpos_minmode"	"30"
 		"ypos"			"5"
@@ -98,8 +98,8 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"TFFontMedium"
-		"font_minmode"	"DefaultVerySmall"
+		"font"			"Bebasneue12"
+		"font_minmode"	"Bebasneue12"
 		"xpos"			"34"
 		"xpos_minmode"	"30"
 		"ypos"			"17"	[$WIN32]
@@ -123,9 +123,9 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
 		"xpos"			"3"
-		"xpos_minmode"	"0"
+		"xpos_minmode"	"3"
 		"ypos"			"2"
-		"ypos_minmode"	"0"
+		"ypos_minmode"	"2"
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"

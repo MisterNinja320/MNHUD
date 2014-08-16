@@ -7,8 +7,8 @@
 		"enabled"		"1"
 		"xpos"			"c-63"	[$WIN32]
 		"ypos"			"c113"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r68"	[$WIN32]
+		"xpos_minmode"	"400"	[$WIN32]
+		"ypos_minmode"	"365"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
 		"wide"			"100"
@@ -50,8 +50,8 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"1"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
+		"ypos_minmode"			"2"
+		"xpos_minmode"			"6"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"

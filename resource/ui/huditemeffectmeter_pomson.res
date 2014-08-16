@@ -6,10 +6,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-62"	[$WIN32]
+		"xpos_minmode"  "c-27"
 		"ypos"			"c115"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r124"	[$X360]
-		"wide"			"100"
+		"ypos_minmode"  "c137"
+		"wide"			"150"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -39,7 +39,9 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"41"
+		"xpos_minmode"          "10"
 		"ypos"					"25"
+		"ypos_minmode"          "2"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -47,8 +49,6 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"1"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"

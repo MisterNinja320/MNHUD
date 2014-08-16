@@ -6,7 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-65"	[$WIN32]
+		"xpos_minmode"  "400"
 		"ypos"			"c137"	[$WIN32]
+		"ypos_minmode"  "390"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -46,8 +48,8 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"1"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
+		"ypos_minmode"			"2"
+		"xpos_minmode"			"2"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
