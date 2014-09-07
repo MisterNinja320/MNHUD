@@ -19,7 +19,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"xpos"			"0"
 		"ypos"			"8"
 		"zpos"			"0"
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"EllipsesLabel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"xpos"			"0"
 		"ypos"			"42"
 		"zpos"			"0"
@@ -61,7 +61,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DurationLabel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"xpos"			"0"
 		"ypos"			"52"
 		"zpos"			"0"
@@ -92,7 +92,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

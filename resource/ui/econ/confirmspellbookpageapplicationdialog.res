@@ -38,7 +38,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribLarge"
 			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
@@ -59,7 +59,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"dynamic"
 		"textAlignment"	"center"
 		"xpos"			"100"
@@ -78,7 +78,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToolBG"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		""
 		"textAlignment"	"east"
 		"xpos"			"10"
@@ -141,7 +141,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SubjectBG"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		""
 		"textAlignment"	"east"
 		"xpos"			"300"
@@ -204,7 +204,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ConfirmLabel"
-		"font"			"Engplot12"
+		"font"			"HudFontSmall"
 		"labelText"		"#SpellbookPageApplyConfirm"
 		"textAlignment"	"center"
 		"xpos"			"20"
@@ -234,7 +234,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -259,7 +259,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#CraftNameConfirm"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

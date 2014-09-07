@@ -5,7 +5,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"-10"	[$WIN32]
+		"xpos"			"c-435"	[$WIN32]
 		"xpos_minmode"	"400"	[$WIN32]
 		"ypos"			"c0"	[$WIN32]
 		"ypos_minmode"	"c160"	[$WIN32]
@@ -40,10 +40,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"412"
-		"ypos"					"162"
+		"ypos"					"171"
 		"zpos"					"2"
 		"wide"					"41"
-		"tall"					"15"
+		"tall"					"14"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -55,9 +55,10 @@
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"center"
-		"dulltext"				"0"
+		"dulltext"				"1"
 		"brighttext"			"0"
-		"font"					"Engplot12"
+		"font"					"Bebasneue8"
+		"fontcolor"             "Black"
 	}
 
 	"ItemEffectMeter"

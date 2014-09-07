@@ -7,7 +7,7 @@
 		"xpos"			"c-320"
 		"ypos"			"0"
 		"wide"			"f0"
-		"tall"			"650"
+		"tall"			"1550"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -557,7 +557,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
-		"xpos"			"0"
+		"xpos"			"300"
 		"ypos"			"85"
 		"zpos"			"3"
 		"wide"			"f0"

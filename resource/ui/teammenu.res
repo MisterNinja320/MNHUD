@@ -43,17 +43,16 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"	"0"
-		"font"          "Bebasneue8"
 	}
 
 	"mapname"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"mapname"
-		"xpos"			"c-100"
-		"ypos"			"c-100"
-		"wide"			"200"
-		"tall"			"60"
+		"xpos"			"c-165"
+		"ypos"			"c-120"
+		"wide"			"350"
+		"tall"			"80"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -62,7 +61,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"		"Bebasneue24"
+		"font"		"Bebasneue42"
 		"fgcolor"				"255 255 255 255"
 		"fgcolor_override"		"255 255 255 255"
 	}
@@ -189,7 +188,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
-		"font"			"MenuSmallFont"
+		"font"			"Bebasneue12"
 	}
 	
 	"TeamMenuSelect"
@@ -209,8 +208,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Bebasneue12"
-		"fgcolor"		"White"
+		"font"			"MenuMainTitle"
+		"fgcolor"		"HudOffWhite"
 	}
 	
 	"TeamMenuAuto"
@@ -347,47 +346,35 @@
 
 	"blueframe"
 	{
-		"ControlName"	"CTFImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"blueframe"
-		"xpos"			"c-55"
+		"xpos"			"c-426"
 		"ypos"			"c-10"
-		"zpos"			"1"		
-		"wide"			"55"
+		"zpos"			"1"
+		"wide"			"426"
 		"tall"			"38"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-
-		"image"			"../hud/color_panel_blu"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
+		"fillcolor"		"HUDBlueTeam"
 
 	}
 	
 	"redframe"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"redframe"		
+		"ControlName"	"ImagePanel"
+		"fieldName"		"redframe"
 		"xpos"			"c0"
 		"ypos"			"c-10"
 		"zpos"			"1"
-		"wide"			"55"
+		"wide"			"426"
 		"tall"			"38"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-
-		"image"			"../hud/color_panel_red"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
+		"fillcolor"		"HUDRedTeam"
 	}	
 	
 	"BlueLabel"
@@ -433,47 +420,34 @@
 	}	
 	"RandomFrame"
 	{
-		"ControlName"	"CTFImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"RandomFrame"
-		"xpos"			"c-55"
+		"xpos"			"c-427"
 		"ypos"			"c-28"
-		"zpos"			"1"		
-		"wide"			"110"
+		"zpos"			"1"
+		"wide"			"853"
 		"tall"			"18"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-
-		"image"			"../hud/color_panel_brown"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
-	}		
+		"fillcolor"		"0 0 0 127"
+	}	
 	
 	"SpectateFrame"
 	{
-		"ControlName"	"CTFImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"SpectateFrame"
-		"xpos"			"c-55"
+		"xpos"			"c-427"
 		"ypos"			"c29"
 		"zpos"			"1"
-		"wide"			"110"
+		"wide"			"853"
 		"tall"			"18"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-
-		"image"			"../hud/color_panel_brown"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
-		
+		"fillcolor"		"0 0 0 127"
 	}			
 	
 	"Footer"
@@ -487,7 +461,7 @@
 		"textadjust"		"3"
 		"buttonoffsety"		"20"
 		"center"			"0"
-		"fonttext"			"Bebasneue32"
+		"fonttext"			"MatchmakingDialogMenuLarge"
 		"fgcolor"			"HudOffWhite" 	
 		
 		"button"

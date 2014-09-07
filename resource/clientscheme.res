@@ -3016,12 +3016,42 @@ Scheme
 				"antialias" "1"
 			}
 		}
+	   	Bebasneue10
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"10"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue11
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"11"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
 	   	Bebasneue12
 		{
 			"1"
 			{
 				"name"		"BebasNeue"
 				"tall"		"12"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue14
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"14"
 				"weight"    "0"
 				"antialias" "1"
 			}

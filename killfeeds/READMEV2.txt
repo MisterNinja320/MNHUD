@@ -1,1 +1,1 @@
-Change the name of the position you want to just "hudlayout" and place it in resouce/ui
+Change the name of the killfeed position you want to "hudlayout" and place it in scripts

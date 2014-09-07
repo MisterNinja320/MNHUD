@@ -62,7 +62,7 @@
 		"wrap"			"1"
 		"labelText"		"%avatartext%"
 		"textAlignment"	"West"
-		"font"			"Engplot12"
+		"font"			"HudFontSmallest"
 	}
 
 	"TextLabel"
@@ -83,6 +83,6 @@
 		"wrap"			"1"
 		"labelText"		"%text%"
 		"textAlignment"	"West"
-		"font"			"Engplot12"
+		"font"			"HudFontSmallest"
 	}
 }

@@ -5,7 +5,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-62"	[$WIN32]
+		"xpos"			"c-64"	[$WIN32]
 		"xpos_minmode"  "c-27"
 		"ypos"			"c115"	[$WIN32]
 		"ypos_minmode"  "c137"
@@ -38,13 +38,13 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"41"
+		"xpos"					"42"
 		"xpos_minmode"          "10"
-		"ypos"					"25"
+		"ypos"					"28"
 		"ypos_minmode"          "2"
 		"zpos"					"2"
 		"wide"					"41"
-		"tall"					"15"
+		"tall"					"14"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -54,9 +54,9 @@
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
-		"dulltext"				"0"
+		"dulltext"				"1"
 		"brighttext"			"0"
-		"font"					"Engplot12"
+		"font"					"Bebasneue8"
 	}
 
 	"ItemEffectMeter"
@@ -64,12 +64,12 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"46"
-		"ypos"					"23"
+		"xpos"					"26"
+		"ypos"					"32"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"30"
+		"wide"					"70"
 		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"

@@ -65,7 +65,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"namelabel"
-			"font"			"Engplot12"
+			"font"			"ItemFontNameLarge"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"
@@ -84,7 +84,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribLarge"
 			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
@@ -104,7 +104,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"equippedlabel"
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"37"
 			"ypos"			"28"
 			"zpos"			"2"
@@ -139,7 +139,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"quantitylabel"
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -160,7 +160,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"serieslabel"
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -181,7 +181,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"matcheslabel"
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"

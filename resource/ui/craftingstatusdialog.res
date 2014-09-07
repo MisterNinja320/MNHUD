@@ -19,7 +19,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
-		"font"			"HudFontSmallBold"
+		"font"			"Bebasneue14"
 		"xpos"			"0"
 		"ypos"			"10"
 		"zpos"			"0"
@@ -47,7 +47,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"Bebasneue14"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
@@ -73,7 +73,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"EllipsesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"Bebasneue14"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
@@ -108,7 +108,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#GameUI_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"Bebasneue14"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

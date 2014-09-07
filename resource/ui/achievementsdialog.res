@@ -121,7 +121,7 @@
 		"brighttext"		"0"
 		"wrap"		"0"
 		"fillcolor"	"255 255 255 255"
-		"font"		"AchievementItemDescription"	//"defaultlarg"
+		"font"		"Bebasneue12"	//"defaultlarg"
 	}
 	
 	"achievement_pack_combo"
@@ -170,7 +170,7 @@
 		"brighttext"		"0"
 		"wrap"		"0"
 		"fillcolor"	"255 255 255 255"
-		"font"		"AchievementItemDescription"	//"defaultlarg"
+		"font"		"Bebasneue12"	//"defaultlarg"
 	}
 	
 	"HideAchieved"
@@ -191,6 +191,6 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
-		"font"			"AchievementItemDescription"
+		"font"			"Bebasneue12"
 	}
 }

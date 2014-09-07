@@ -113,7 +113,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		">>"
 		"textAlignment"	"west"
 		"xpos"			"c-300"
@@ -131,7 +131,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Engplot24"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_TradeWindow_Title"
 		"textAlignment"	"west"
 		"xpos"			"c-280"
@@ -179,7 +179,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label1Title"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_TradeWindow_Step1"
 		"textAlignment"	"north-west"
 		"xpos"			"c-288"
@@ -197,7 +197,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label1Explanation"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_Step1Desc"
 		"textAlignment"	"north-west"
 		"xpos"			"c-288"
@@ -217,7 +217,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label2Title"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_TradeWindow_Step2"
 		"textAlignment"	"north-west"
 		"xpos"			"c-40"
@@ -235,7 +235,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label2Explanation"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_Step2Desc"
 		"textAlignment"	"north-west"
 		"xpos"			"c-40"
@@ -254,7 +254,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label2ExplanationFreeTrial"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_Step2Desc_FreeTrial"
 		"textAlignment"	"north-west"
 		"xpos"			"c-40"
@@ -285,7 +285,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
 		"dulltext"		"0"
@@ -332,7 +332,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MyReadyLabel"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_NotReady"
 		"textAlignment"	"north"
 		"xpos"			"c200"
@@ -353,7 +353,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label3Title"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_TradeWindow_Step3"
 		"textAlignment"	"north-west"
 		"xpos"			"c-40"
@@ -371,7 +371,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label3Explanation"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_Step3Desc"
 		"textAlignment"	"north-west"
 		"xpos"			"c-40"
@@ -390,7 +390,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label3ExplanationFreeTrial"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_Step3Desc_FreeTrial"
 		"textAlignment"	"north-west"
 		"xpos"			"c-40"
@@ -452,7 +452,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TheirReadyLabel"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_NotReady"
 		"textAlignment"	"north"
 		"xpos"			"c200"
@@ -473,7 +473,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label4Title"
-		"font"			"Engplot16"
+		"font"			"HudFontSmallestBold"
 		"labelText"		"#TF_TradeWindow_Step4"
 		"textAlignment"	"north-west"
 		"xpos"			"c50"
@@ -491,7 +491,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label4Explanation"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#TF_TradeWindow_Step4Desc"
 		"textAlignment"	"north-west"
 		"xpos"			"c50"
@@ -510,7 +510,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label4Yours"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"Your showcase"
 		"textAlignment"	"north-west"
 		"xpos"			"c50"
@@ -528,7 +528,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label4Theirs"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"Their showcase"
 		"textAlignment"	"north-east"
 		"xpos"			"c50"
@@ -566,7 +566,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"Engplot12"
+			"font"			"ItemFontAttribLarge"
 			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
@@ -627,7 +627,7 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 		"labelText"		"#BackpackShowDetails"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"
@@ -652,7 +652,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"<"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -664,7 +664,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
 		"xpos"			"c-127"
@@ -693,7 +693,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		">"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -755,7 +755,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ConfirmEllipsis"
-		"font"			"Engplot18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%confirm_button_ellipsis%"
 		"textAlignment"	"west"
 		"xpos"			"c50"
@@ -773,7 +773,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ConfirmDisabledLabel"
-		"font"			"Engplot12"
+		"font"			"ItemFontNameSmall"
 		"labelText"		"#TF_TradeWindow_Verifying"
 		"textAlignment"	"center"
 		"xpos"			"c50"
@@ -802,7 +802,7 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 		"labelText"		"#TF_TradeWindow_WaitingForTrade"
-		"font"			"Engplot12"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
 		"dulltext"		"0"
@@ -828,7 +828,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Engplot16"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
 		"dulltext"		"0"

@@ -1,5 +1,6 @@
 "Resource/HudLayout.res"
 {   
+    /// HUD CROSSHAIRS ///
     "ScatterGunPelletXHair"
     {
         "controlName" "CExLabel"
@@ -668,16 +669,14 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-36"	[$WIN32]
+		"xpos"			"c-58"	[$WIN32]
 		"xpos_minmode"  "c-27"
 		"ypos"			"c137"	[$WIN32]
 		"ypos_minmode"	"c137"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
+		"wide"			"130"
 		"wide_minmode"	"50"
-		"tall"			"8"
+		"tall"			"100"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -817,12 +816,12 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	[$WIN32]
-		"ypos"		"r70"	[$WIN32]
+		"xpos"		"90"	[$WIN32]
+		"ypos"		"375"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
 		"wide"		"500"
-		"tall"		"200"
+		"tall"		"500"
 		"TextFont"	"Default"	[$X360]
 	}
 
@@ -868,7 +867,7 @@
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"200"
 		"ypos"		"280"
 		"wide"	 	"252"
 		"tall"	 	"35"
@@ -1606,12 +1605,12 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-43"	[$WIN32]
-		"xpos_minmode"	"c-36"	[$WIN32]
-		"ypos"			"c132"	[$WIN32]
-		"ypos_minmode"	"c134"	[$WIN32]
-		"wide"			"100"
+		"xpos"			"c-58"	[$WIN32]
+		"ypos"			"c165"	[$WIN32]
+		"wide"			"150"
 		"tall"			"50"
+		"MeterFG"       "White"
+		"MeterBG"       "Gray"
 	}	
 
 	HudTeamGoal

@@ -32,7 +32,7 @@
 		"wrap"			"1"
 		"labelText"		""
 		"textAlignment"	"North"
-		"font"			"Bebasneue12"
+		"font"			"TFFontSmall"
 		"textinsetx"	"2"
 		"textinsety"	"7"
 	}

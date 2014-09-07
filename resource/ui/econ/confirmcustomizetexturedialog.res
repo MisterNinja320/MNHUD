@@ -52,7 +52,7 @@
 			
 			"attriblabel"
 			{
-				"font"			"Engplot12"
+				"font"			"Bebasneue11"
 				"xpos"			"0"
 				"ypos"			"30"
 				"zpos"			"2"
@@ -69,7 +69,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ToolBG"
-			"font"			"Engplot18"
+			"font"			"Bebasneue14"
 			"labelText"		""
 			"textAlignment"	"east"
 			"xpos"			"10"
@@ -128,7 +128,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"Engplot18"
+			"font"			"Bebasneue14"
 			"labelText"		"dynamic"
 			"textAlignment"	"center"
 			"xpos"			"100"
@@ -143,7 +143,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SubjectBG"
-			"font"			"Engplot18"
+			"font"			"Bebasneue14"
 			"labelText"		""
 			"textAlignment"	"east"
 			"xpos"			"465"
@@ -247,7 +247,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageTitleLabel"
-				"font"			"Engplot18"
+				"font"			"Bebasneue18"
 				"labelText"		"#ToolCustomizeTextureStep1"
 				"textAlignment"	"north-west"
 				"xpos"			"0"
@@ -278,7 +278,7 @@
 					"tall"				"20"
 					"labelText"		"#ToolCustomizeTextureUseAvatarImage"
 					"textAlignment"		"west"
-					"font"			"Engplot18"
+					"font"			"Bebasneue14"
 				}
 
 				"UseAnyImageRadio"
@@ -291,7 +291,7 @@
 					"tall"				"20"
 					"labelText"		"#ToolCustomizeTextureUseAnyImage"
 					"textAlignment"		"west"
-					"font"			"Engplot18"
+					"font"			"Bebasneue14"
 				}
 
 				"BrowseForNewImageButton"
@@ -304,7 +304,7 @@
 					"wide"			"300"
 					"tall"			"20"
 					"labelText"		"#ToolCustomizeTextureBrowseButton"
-					"font"			"Engplot18"
+					"font"			"Bebasneue14"
 					"Command"		"pick_image"
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -314,7 +314,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"ForBestResultsLabel"
-					"font"			"Engplot12"
+					"font"			"Bebasneue14"
 					"xpos"		"40"
 					"ypos"		"140"
 					"wide"		"300"
@@ -358,7 +358,7 @@
 					"wide"		"140"
 					"tall"		"15"
 					"editable"		"0"
-					"font"			"HudFontSmall"
+					"font"			"Bebasneue14"
 
 					//"fgcolor_override"	"235 226 202 255"
 					"bgcolor_override"	"0 0 0 255"
@@ -381,7 +381,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#Cancel"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"Command"		"cancel"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -398,7 +398,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_NextCarat"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"Command"		"next_page"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -422,7 +422,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageTitleLabel"
-				"font"			"HudFontMediumSmall"
+				"font"			"Bebasneue18"
 				"labelText"		"#ToolCustomizeTextureStep2"
 				"textAlignment"	"north-west"
 				"xpos"			"0"
@@ -436,7 +436,7 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"		"SelectFilterGroupBox"
-				"Font"		"HudFontSmallestBold"
+				"Font"		"Bebasneue11"
 				"xpos"		"0"
 				"ypos"		"25"
 				"zpos"		"-1"
@@ -448,7 +448,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"FilterLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"Bebasneue14"
 					"xpos"		"10"
 					"ypos"		"10"
 					"wide"		"140"
@@ -468,7 +468,7 @@
 					"wide"		"140"
 					"tall"		"15"
 					"editable"		"0"
-					"font"			"HudFontSmall"
+					"font"			"Bebasneue14"
 					"visible"	"0"
 
 					//"fgcolor_override"	"235 226 202 255"
@@ -500,7 +500,7 @@
 						"tall"		"80"
 						"labelText"		"#ToolCustomizeTexturePainterlyDescription"
 						"textAlignment"	"north-west"
-						"font"			"HudFontSmall"
+						"font"			"Bebasneue14"
 						"wrap"			"1"
 					}
 				}
@@ -525,7 +525,7 @@
 						"tall"		"60"
 						"labelText"		"#ToolCustomizeTextureStencilDescription"
 						"textAlignment"	"north-west"
-						"font"			"HudFontSmall"
+						"font"			"Bebasneue14"
 						"wrap"			"1"
 						"visible"	"0"
 					}
@@ -540,7 +540,7 @@
 						"tall"		"15"
 						"labelText"		"#ToolCustomizeTextureColorPalette"
 						"textAlignment"	"north-west"
-						"font"			"HudFontSmallBold"
+						"font"			"Bebasneue14"
 					}
 
 					"PrevStencilPaletteButton"
@@ -553,7 +553,7 @@
 						"wide"			"65"
 						"tall"			"15"
 						"labelText"		"<<"
-						"font"			"HudFontSmallBold"
+						"font"			"Bebasneue14"
 						"textAlignment"	"center"
 						"Command"		"prev_stencil_palette"
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -570,7 +570,7 @@
 						"wide"			"65"
 						"tall"			"15"
 						"labelText"		">>"
-						"font"			"HudFontSmallBold"
+						"font"			"Bebasneue14"
 						"textAlignment"	"center"
 						"Command"		"next_stencil_palette"
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -598,7 +598,7 @@
 						"wide"		"140"
 						"tall"		"15"
 						"editable"		"0"
-						"font"			"HudFontSmall"
+						"font"			"Bebasneue14"
 
 						//"fgcolor_override"	"235 226 202 255"
 						"bgcolor_override"	"0 0 0 255"
@@ -667,7 +667,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"DragToRotateLabel"
-					"font"			"HudFontSmall"
+					"font"			"Bebasneue14"
 					"labelText"		"#ToolCustomizeTextureDragToRotate"
 					"textAlignment"	"center"
 					"xpos"			"10"
@@ -689,7 +689,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#Cancel"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"Command"		"cancel"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -706,7 +706,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_BackCarat"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"Command"		"prev_page"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -723,7 +723,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_NextCarat"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"Command"		"next_page"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -745,7 +745,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageTitleLabel"
-				"font"			"HudFontMediumSmall"
+				"font"			"Bebasneue18"
 				"labelText"		"#ToolCustomizeTextureStep3"
 				"textAlignment"	"north-west"
 				"xpos"			"0"
@@ -759,7 +759,7 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"		"WarningTextGroupBox"
-				"Font"		"HudFontSmallestBold"
+				"Font"		"Bebasneue11"
 				"xpos"		"0"
 				"ypos"		"25"
 				"zpos"		"-1"
@@ -771,7 +771,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"WarningText"
-					"font"			"HudFontSmall"
+					"font"			"Bebasneue14"
 					"xpos"		"10"
 					"ypos"		"10"
 					"wide"		"330"
@@ -815,7 +815,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"DragToRotateLabel"
-					"font"			"HudFontSmall"
+					"font"			"Bebasneue14"
 					"labelText"		"#ToolCustomizeTextureDragToRotate"
 					"textAlignment"	"center"
 					"xpos"			"10"
@@ -837,7 +837,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#Cancel"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"default"		"0"
 				"Command"		"cancel"
@@ -855,7 +855,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_BackCarat"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"Command"		"prev_page"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -872,7 +872,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#ToolCustomizeTextureOKButton"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"textAlignment"	"center"
 				"default"		"1"
 				"Command"		"apply"
@@ -895,7 +895,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PleaseWaitLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"Bebasneue14"
 				"labelText"		"#ToolCustomizeTexturePleaseWait"
 				"textAlignment"	"center"
 				"xpos"			"20"
@@ -939,7 +939,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"DragToRotateLabel"
-					"font"			"HudFontSmall"
+					"font"			"Bebasneue14"
 					"labelText"		"#ToolCustomizeTextureDragToRotate"
 					"textAlignment"	"center"
 					"xpos"			"10"

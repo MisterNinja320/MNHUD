@@ -480,8 +480,8 @@ event HudMedicCharged
 	Animate	ChargeLabel 	FgColor		"255 255 0 255"		Linear 0.0 0.1
 	Animate	ChargeLabel 	FgColor		"205 205 0 255"		Linear 0.3 0.4
 	
-	Animate	ChargeMeter 	FgColor		"255 255 0 255"		Linear 0.0 0.1
-	Animate	ChargeMeter 	FgColor		"205 205 0 255"		Linear 0.3 0.4
+	Animate	ChargeMeter 	FgColor		"84 255 159 255"		Linear 0.0 0.1
+	Animate	ChargeMeter 	FgColor		"0 205 102 255"		Linear 0.3 0.4
 
 	RunEvent HudMedicChargedLoop	0.6
 }
@@ -780,7 +780,8 @@ event NotificationsPresentBlinkStop
 
 event DamagedPlayer
 {
-	// empty
+	Animate Circle FgColor "Red" Linear 0.0 0.00001
+    Animate Circle FgColor "White" Linear 0.20 0.20001	
 }
 
 //===========================================
