@@ -42,6 +42,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Bebasneue8"
+		"fgcolor_override"      "TanDark"
 	}
 
 	"ChargeMeter"

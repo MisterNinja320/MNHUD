@@ -33,7 +33,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ChalkboardTitle"
+		"font"			"Bebasneue32"
 		"fgcolor"		"White"
 	}	
 
@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"ChalkboardText"
+		"font"			"Bebasneue14"
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
@@ -102,7 +102,7 @@
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"MenuSmallFont"
+		"font"			"Bebasneue14"
 	}
 	
 	"MenuBG"
@@ -116,8 +116,8 @@
 		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fov"			"20"
 		
 		"model"
@@ -144,8 +144,8 @@
 		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"

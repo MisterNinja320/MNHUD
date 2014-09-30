@@ -2,13 +2,13 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"28"
+		"delta_item_x"			"32"
 		"delta_item_start_y"	"90"
 		"delta_item_end_y"		"70"
-		"PositiveColor"			"0 255 0 255"
-		"NegativeColor"			"255 0 0 255"
+		"PositiveColor"			"0 205 102 255"
+		"NegativeColor"			"255 48 48 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"Hiruko24"
 	}
 	
 	"AccountBG"
@@ -34,9 +34,9 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
-		"xpos"			"22"
-		"xpos_lodef"	"12"
-		"ypos"			"108"
+		"xpos"			"23"
+		"xpos_lodef"	"14"
+		"ypos"			"110"
 		"ypos_lodef"	"112"
 		"zpos"			"1"
 		"wide"			"10"
@@ -69,7 +69,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Bebasneue24"
+		"font"			"Hiruko18"
 	}	
     "AccountValueShadow"
 	{
@@ -90,7 +90,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Bebasneue24"
+		"font"			"Hiruko18"
 		"font_lodef"	"HudFontMedium"	
 		"fgcolor"       "Black"
 	}

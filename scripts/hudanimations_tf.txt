@@ -298,8 +298,8 @@ event HudLowAmmoPulse
     Animate AmmoInReserve		FgColor		"205 38 38 255"		Linear 0.0 0.075
     Animate AmmoInReserve		FgColor		"255 48 48 255"		Linear 0.125 0.075
 	
-    Animate AmmoNoClipShadow		FgColor		"205 38 38 255"		Linear 0.0 0.075
-    Animate AmmoNoClipShadow		FgColor		"255 48 48 255"		Linear 0.125 0.075
+    Animate AmmoNoClip		FgColor		"205 38 38 255"		Linear 0.0 0.075
+    Animate AmmoNoClip		FgColor		"255 48 48 255"		Linear 0.125 0.075
 
     RunEvent HudLowAmmoPulseLoop	0.25
 }
@@ -315,11 +315,11 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 0.0
 	StopEvent HudLowAmmoPulseLoop 0.0
 
-	Animate AmmoInClip fgcolor "Tanlight" accel 0.0 0.0
+	Animate AmmoInClip fgcolor "White" accel 0.0 0.0
 
-	Animate AmmoInReserve fgcolor "Tanlight" accel 0.0 0.0
+	Animate AmmoInReserve fgcolor "White" accel 0.0 0.0
 
-	Animate AmmoNoClipShadow fgcolor "TanLight" accel 0.0 0.0
+	Animate AmmoNoClip fgcolor "White" accel 0.0 0.0
 }
 
 //===========================================
@@ -477,12 +477,12 @@ event HudTournamentSetupPanelClose
 
 event HudMedicCharged
 {
-	Animate	ChargeLabel 	FgColor		"255 255 0 255"		Linear 0.0 0.1
-	Animate	ChargeLabel 	FgColor		"205 205 0 255"		Linear 0.3 0.4
+	Animate	ChargeLabel 	FgColor		"255 255 255 255"		Linear 0.0 0.1
+	Animate	ChargeLabel 	FgColor		"205 205 205 255"		Linear 0.3 0.4
 	
 	Animate	ChargeMeter 	FgColor		"84 255 159 255"		Linear 0.0 0.1
 	Animate	ChargeMeter 	FgColor		"0 205 102 255"		Linear 0.3 0.4
-
+    
 	RunEvent HudMedicChargedLoop	0.6
 }
 
@@ -497,7 +497,7 @@ event HudMedicChargedStop
 	StopEvent HudMedicCharged 0.0
 	StopEvent HudMedicChargedLoop 0.0
 	
-	Animate	ChargeLabel 	FgColor		"TanLight"		Linear 0.0 0.0001
+	Animate	ChargeLabel 	FgColor		"0 0 0 255"		Linear 0.0 0.0001
 	Animate	ChargeMeter 	FgColor		"TanLight"		Linear 0.0 0.0001
 }
 

@@ -7,7 +7,7 @@
 		"enabled"		"1"
 		"xpos"			"c-84"	[$WIN32]
 		"xpos_minmode"  "400"
-		"ypos"			"c138"	[$WIN32]
+		"ypos"			"c121"	[$WIN32]
 		"ypos_minmode"  "308"
 		"wide"			"119"
 		"tall"			"500"
@@ -58,6 +58,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Bebasneue8"
+		"fgcolor_override"      "TanDark"
 	}
 
 	"ItemEffectMeter"

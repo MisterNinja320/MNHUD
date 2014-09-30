@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-82"
-		"ypos"			"c145"
+		"ypos"			"c127"
 		"xpos_minmode"	"400"
 		"ypos_minmode"	"c138"
 		"x_offset_minmode"		"0"
@@ -59,6 +59,7 @@
 		"dulltext"				"1"
 		"brighttext"			"0"
 		"font"					"Bebasneue8"
+		"fgcolor_override"      "TanDark"
 	}
 
 	"ItemEffectMeter"

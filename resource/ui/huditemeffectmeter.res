@@ -5,9 +5,9 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-435"	[$WIN32]
+		"xpos"			"c-453"	[$WIN32]
 		"xpos_minmode"	"400"	[$WIN32]
-		"ypos"			"c0"	[$WIN32]
+		"ypos"			"c-35"	[$WIN32]
 		"ypos_minmode"	"c160"	[$WIN32]
 		"wide"			"500"
 		"tall"			"500"
@@ -46,12 +46,12 @@
 		"tall"					"14"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"2"
 		"xpos_minmode"			"14"
 		"textAlignment_minmode"			"west"
-		"enabled"				"1"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"center"
@@ -71,9 +71,9 @@
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"70"
+		"wide"					"120"
 		"wide_minmode"			"50"
-		"tall"					"5"				
+		"tall"					"2"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"

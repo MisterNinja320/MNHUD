@@ -5,34 +5,14 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-135"	[$WIN32]
-		"ypos"			"c154"	[$WIN32]
+		"xpos"			"c-116"	[$WIN32]
+		"ypos"			"c119"	[$WIN32]
 		"xpos_minmode"	"c-135"	[$WIN32]
 		"ypos_minmode"	"c134"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
-	}
-	
-	"ItemEffectMeterBG"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"76"
-		"tall"			"44"
-		"visible"		"0"
-		"visible_minmode"	"0"
-		"enabled"		"0"
-		"image"			"../hud/misc_ammo_area_blue"
-		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_red"
-		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
 	}
 	
 	"ItemEffectMeterLabel"
@@ -99,5 +79,27 @@
 		"brighttext"			"0"
 		"font"					"Bebasneue24"
 		"font_minmode"			"Bebasneue24"
+	}	
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCountShadow"
+		"xpos"					"26"
+		"ypos_minmode"			"18"
+		"ypos"					"11"
+		"zpos"					"2"
+		"wide"					"40"
+		"tall"					"20"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"north"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Bebasneue24"
+		"font_minmode"			"Bebasneue24"
+		"fgcolor"               "Black"
 	}
 }

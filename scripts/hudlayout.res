@@ -606,8 +606,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-55"	[$WIN32]
-		"ypos"	"c100"	[$WIN32]
+		"xpos"	"c-64"	[$WIN32]
+		"ypos"	"c83"	[$WIN32]
 		"wide"	"94"
 		"tall"	"45"
 	}
@@ -645,7 +645,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c0"	[$WIN32]
+		"xpos"			"c20"	[$WIN32]
 		"ypos"			"c0"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
@@ -658,9 +658,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"0"	[$WIN32]
-		"ypos"			"c195"	[$WIN32]
-		"wide"			"f0"
+		"xpos"			"c-60"	[$WIN32]
+		"ypos"			"c105"	[$WIN32]
+		"wide"			"120"
 		"tall"			"100"
 	}
 	
@@ -671,12 +671,12 @@
 		"enabled"		"1"
 		"xpos"			"c-58"	[$WIN32]
 		"xpos_minmode"  "c-27"
-		"ypos"			"c137"	[$WIN32]
+		"ypos"			"c76"	[$WIN32]
 		"ypos_minmode"	"c137"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"130"
 		"wide_minmode"	"50"
-		"tall"			"100"
+		"tall"			"200"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -775,8 +775,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-53"	[$WIN32]
-		"ypos"					"c53"	[$WIN32]
+		"xpos"					"c-50"	[$WIN32]
+		"ypos"					"c41"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -787,10 +787,10 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
+		"xpos"					"c8"
 		"xpos_minmode"			"61"
-		"ypos"					"r152"
-		"ypos_minmode"			"r134"
+		"ypos"					"c50"
+		"ypos_minmode"			"c0"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -816,8 +816,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"90"	[$WIN32]
-		"ypos"		"375"	[$WIN32]
+		"xpos"		"c-260"	[$WIN32]
+		"ypos"		"c134"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
 		"wide"		"500"
@@ -1171,14 +1171,14 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c35"
-		"ypos"		"266"	[$WIN32]
+		"xpos"		"c92"
+		"ypos"		"269"	[$WIN32]
 		"ypos"		"236"	[$X360]
 		"wide"		"75"
 		"tall"		"136"	[$WIN32]
 		"tall"		"176"	[$X360]
 
-		"BgAlpha"	"128"
+		"BgAlpha"	"0"
 
 		"GrowTime"		"0.25"
 		"ItemHiddenTime"	"0.2"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
@@ -1606,7 +1606,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-58"	[$WIN32]
-		"ypos"			"c165"	[$WIN32]
+		"ypos"			"c133"	[$WIN32]
 		"wide"			"150"
 		"tall"			"50"
 		"MeterFG"       "White"

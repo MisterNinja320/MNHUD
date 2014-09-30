@@ -3016,7 +3016,38 @@ Scheme
 				"antialias" "1"
 			}
 		}
+	   	Bebasneue8Outlined
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"8"
+				"weight"    "0"
+				"antialias" "1"
+				"outline"   "1"
+			}
+		}
+	   	Bebasneue9Outlined
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"10"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
 	   	Bebasneue10
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"10"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Bebasneue10Outlined
 		{
 			"1"
 			{
@@ -3136,11 +3167,113 @@ Scheme
 				"antialias" "1"
 			}
 		}
+	   	Hiruko12
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"12"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko18
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"18"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko24
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"24"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko28
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"28"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko32
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"32"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko36
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"36"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko36Outlined
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"36"
+				"weight"    "0"
+				"antialias" "1"
+				"outline"   "1"
+			}
+		}
+	   	Hiruko42
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"42"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko48
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"48"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+	   	Hiruko56
+		{
+			"1"
+			{
+				"name"		"Hiruko-BlackAlternate"
+				"tall"		"56"
+				"weight"    "0"
+				"antialias" "1"
+			}
+		}
+
 
 
 	}
 	
-	// These are the fonts for my HUD
+	// These are the custom font definitions
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5068,23 +5201,28 @@ Scheme
 		{
 		"11"
 		}
-		"font" "resource/fonts/Capital Daren Italic.ttf"
-		"name" "Capital Daren Italic"
+		    "font" "resource/fonts/Capital Daren Italic.ttf"
+		    "name" "Capital Daren Italic"
 		{
 		"12"
 		}
-		"font" "resource/fonts/Engplot.ttf"
-		"name" "Engineering Plot"
+		    "font" "resource/fonts/Engplot.ttf"
+		    "name" "Engineering Plot"
 		{
 		"13"
 		}
-		"font" "resource/fonts/crosshairs.ttf"
-		"name" "Crosshairs Regular"
+		    "font" "resource/fonts/crosshairs.ttf"
+		    "name" "Crosshairs Regular"
         {
         "14"
         }
-        "font" "resource/fonts/BebasNeue.otf"
-		"name" "BebasNeue"
+            "font" "resource/fonts/BebasNeue.otf"
+		    "name" "BebasNeue"
+		{	
+        "15"
+        }
+            "font" "resource/fonts/HirukoBlackAlternate"
+		    "name" "Hiruko-BlackAlternate"	
 	    }
 	}
 }

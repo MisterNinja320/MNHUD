@@ -7,12 +7,10 @@
 		"enabled"		"1"
 		"x_offset"		"40"
 		"xpos"			"c-37"	[$WIN32]
-		"ypos"			"c145"	[$WIN32]
+		"ypos"			"c121"	[$WIN32]
 		"xpos_minmode"	"400"	[$WIN32]
 		"ypos_minmode"	"380"	[$WIN32]
 		"x_offset_minmode"		"0"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r124"	[$X360]
 		"wide"			"500"
 		"tall"			"500"
 		"MeterFG"		"White"
@@ -25,7 +23,7 @@
 		"fieldName"		"ItemEffectMeterBG"
 		"xpos"			"12"
 		"ypos"			"0"
-		"zpos"			"0"
+		"zpos"			"-2"
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"0"
@@ -44,14 +42,14 @@
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"58"
 		"ypos"					"19"
-		"zpos"					"2"
+		"zpos"					"5"
 		"wide"					"41"
 		"tall"					"14"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"1"
-		"ypos_minmode"			"2"
+		"ypos_minmode"			"1"
 		"xpos_minmode"			"14"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
@@ -59,8 +57,9 @@
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
 		"dulltext"				"0"
-		"brighttext"			"0"
+		"brighttext"			"1"
 		"font"					"Bebasneue8"
+		"fgcolor_override"               "Tandark"
 	}
 
 	"ItemEffectMeter"
@@ -72,7 +71,7 @@
 		"ypos"					"23"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
-		"zpos"					"2"
+		"zpos"					"-1"
 		"wide"					"70"
 		"wide_minmode"			"50"
 		"tall"					"5"				

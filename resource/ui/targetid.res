@@ -132,7 +132,7 @@
 		"zpos"				"1"
 		"ypos"				"-2"
 		"wide"				"55"
-		"tall"				"150"
+		"tall"				"190"
 		"visible"			"1"
 		"enabled"			"1"	
 		"HealthBonusPosAdj"	"10"
