@@ -7,7 +7,7 @@
 	
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"1"		
+		"zpos"			"-4"		
 		"wide"			"100"
 		"tall"			"200"
 		"autoResize"		"0"

@@ -816,8 +816,9 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-260"	[$WIN32]
-		"ypos"		"c134"	[$WIN32]
+		"xpos"		"c-267"	[$WIN32]
+		"ypos"		"c98"	[$WIN32]
+		"zpos"      "-4"
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
 		"wide"		"500"
@@ -1590,7 +1591,7 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-235"
+		"xpos"			"c-285"
 		"ypos"			"c-52"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"

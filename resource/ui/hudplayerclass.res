@@ -9,7 +9,7 @@
 		"xpos_minmode"  "35555555"
 		"ypos"			"25"
 		"ypos_minmode"	"-7555555555"
-		"zpos"			"1"
+		"zpos"			"4"
 		"zpos_minmode"  "999"
 		"wide"			"f0"
 		"wide_minmode"  "200"
