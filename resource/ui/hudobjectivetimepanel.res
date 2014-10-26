@@ -2,24 +2,21 @@
 {	
 	"TimePanelBG"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"TimePanelBG"
-		"xpos"			"16"
-		"xpos_minmode"	"35"
-		"xpos_hidef"	"108"
-		"xpos_lodef"	"108"
-		"ypos"			"9"
+		"xpos"			"25"
+		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"78"
-		"wide_minmode"	"38"
-		"wide_lodef"	"90"
-		"tall"			"33"
-		"tall_minmode"	"23"
-		"tall_lodef"	"38"
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"50"
+		"tall"			"24"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_blue_bg"	
-		"scaleImage"		"1"	
+		"scaleImage"	"1"
+		"src_corner_height" "3"
+		"src_corner_width" "3"
+		"draw_corner_width" "0"
+		"draw_corner_height" "0"		
 	}
 	"TimePanelProgressBar"
 	{
@@ -28,7 +25,7 @@
 		"xpos"				"67"
 		"xpos_hidef"		"159"
 		"xpos_lodef"		"165"
-		"ypos"				"16"
+		"ypos"				"9999"
 		"ypos_hidef"		"15"
 		"ypos_lodef"		"16"
 		"zpos"				"4"	
@@ -38,7 +35,7 @@
 		"tall_lodef"		"25"	
 		"visible"			"1"
 		"visible_minmode"	"0"
-		"enabled"			"1"
+		"enabled"			"0"
 		"scaleImage"			"1"
 		"image"				"../hud/objectives_timepanel_progressbar"
 		"color_active"			"TimerProgress.Active"
@@ -71,7 +68,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubTextTiny"
+		"font"			"Bebasneue10"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
 	}			
@@ -79,7 +76,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"WaitingForPlayersBG"
-		"xpos"			"16"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
 		"ypos_hidef"	"-100"	//off-screen
@@ -97,10 +94,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OvertimeLabel"
-		"xpos"			"16"
+		"xpos"			"11"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
-		"ypos"			"33"
+		"ypos"			"24"
 		"ypos_minmode"	"24"
 		"ypos_hidef"	"41"
 		"ypos_lodef"	"41"
@@ -118,7 +115,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
+		"font"			"Bebasneue12"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
 	}			

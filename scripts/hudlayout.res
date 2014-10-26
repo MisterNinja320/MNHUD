@@ -816,8 +816,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-169"	[$WIN32]
-		"ypos"		"c98"	[$WIN32]
+		"xpos"		"c-184"	[$WIN32]
+		"ypos"		"c90"	[$WIN32]
 		"zpos"      "-4"
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
@@ -1556,9 +1556,9 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c-55"
-		"wide"			"450"
-		"tall"			"195"
+		"ypos"			"c-59"
+		"wide"			"600"
+		"tall"			"295"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1972,7 +1972,7 @@
 		"ypos"			"c-52"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"
-		"wide"			"470"
+		"wide"			"500"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
