@@ -104,9 +104,9 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponTauntLabel"
-		"font"			"Bebasneue10"
+		"font"			"Bebasneue16"
 		"xpos"			"17"
-		"ypos"			"49"
+		"ypos"			"55"
 		"zpos"			"2"
 		"wide"			"350"
 		"tall"			"13"
@@ -124,9 +124,9 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"Bebasneue10"
+		"font"			"Bebasneue16"
 		"xpos"			"250"
-		"ypos"			"49"
+		"ypos"			"55"
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"13"
